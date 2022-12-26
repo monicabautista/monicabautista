@@ -7,10 +7,8 @@ Soy estudiante de último curso del grado universitario en Gestión de la Inform
 <h3># Identidad Digital</h3>
 
 <p><img alt="ORCID logo" src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif"/> Este es mi <a href="https://orcid.org/0000-0002-3024-5549">ORCID</a></p>
-<p><img alt="Github logo" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Github-icon.png"/> Y este es mi <a href="https://github.com/monicabautista">GitHub</a></p>
 <p><img alt="LinkedIn logo" src="https://icons.iconarchive.com/icons/designbolts/cute-social-media/16/Linkedin-icon.png"/> También puedes encontrarme en <a href="https://www.linkedin.com/in/monicabautistavillaescusa">LinkedIn</a></p>
 <p><img alt="Mastodon logo" src="https://uploads-ssl.webflow.com/60ba014f7e8d7b1e8e1e0b1c/636e6d0c9b355b482353507a_Mastodon_logotype_(simple)_new_hue.svg-p-500.png" width="16"/> Y en Mastodon con el alias <a href="https://openbiblio.social/web/@monicabautista">@monicabautista@openbiblio.social</a></p>
-<p>📰 O agregar el <a href="/feed/">feed RSS</a> de este blog a tu lector favorito.</p>
 
 No dispongo de Facebook, Twitter e Instagram (ni profesional ni personal) por motivos éticos. 
 
