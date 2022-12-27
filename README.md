@@ -1,4 +1,5 @@
 # 🦉 Mónica Bautista 
+**`Estudiando para ser profesional de la información (bibliotecaria/documentalista/investigadora)`**
 
 Bienvenido a mi baúl de recursos y opiniones del ámbito de la gestión de la información.
 
