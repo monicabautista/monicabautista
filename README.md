@@ -16,7 +16,7 @@ No dispongo de Facebook, Twitter e Instagram (ni profesional ni personal) por mo
 
 <h3># Correo electrónico</h3>
 
-<p><a href="mailto:mbautivi36@alumnes.ub.edu">mbautivi36 ARROBA alumnes.ub.edu</a></p>
+<p><a href="mailto:monicabautista@protonmail.com">monicabautista ARROBA protonmail PUNTO com</a></p>
 
 <h3># Licencia</h3>
 
