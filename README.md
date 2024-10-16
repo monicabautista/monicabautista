@@ -1,17 +1,12 @@
-# 🦉 Mónica Bautista 
+# 🌸 Mónica Bautista 🌸
 **`Estudiando para ser profesional de la información (bibliotecaria/documentalista/investigadora)`**
 
-Bienvenido a mi baúl de recursos y opiniones del ámbito de la gestión de la información.
-
-<h3># ¿Quién eres?</h3>
- 
-Soy estudiante de último curso del grado universitario en Gestión de la Información y Documentación Digital (antes conocido como "Biblioteconomía" o "Información y Documentación"). Entre mis intereses actuales se encuentran el movimiento Open Access, las bibliotecas de investigación y la evaluación de la producción científica. Tengo pensado usar este espacio virtual para compartir mis proyectos como estudiante/aficionada. También quiero que se convierta en un punto de encuentro de todos los perfiles que conforman mi actual identidad digital.
+Bienvenido a mi perfil de GitHub.
 
 <h3># Identidad Digital</h3>
 
 <p><img alt="ORCID logo" src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif"/> Este es mi <a href="https://orcid.org/0000-0002-3024-5549">ORCID</a></p>
 <p><img alt="LinkedIn logo" src="https://icons.iconarchive.com/icons/designbolts/cute-social-media/16/Linkedin-icon.png"/> También puedes encontrarme en <a href="https://www.linkedin.com/in/monicabautistavillaescusa">LinkedIn</a></p>
-<p><img alt="Mastodon logo" src="https://uploads-ssl.webflow.com/60ba014f7e8d7b1e8e1e0b1c/636e6d0c9b355b482353507a_Mastodon_logotype_(simple)_new_hue.svg-p-500.png" width="16"/> Y en Mastodon con el alias <a href="https://openbiblio.social/web/@monicabautista">@monicabautista@openbiblio.social</a></p>
 
 No dispongo de Facebook, Twitter e Instagram (ni profesional ni personal) por motivos éticos. 
 
