@@ -1,5 +1,4 @@
 # 🌸 Mónica Bautista 🌸
-**`Estudiando para ser profesional de la información (bibliotecaria/documentalista/investigadora)`**
 
 Bienvenido a mi perfil de GitHub.
 
