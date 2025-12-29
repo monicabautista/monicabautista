@@ -1,4 +1,4 @@
-# 🌸 Mónica Bautista 🌸
+# Mónica Bautista
 
 Bienvenido a mi perfil de GitHub.
 
