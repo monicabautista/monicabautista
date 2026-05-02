@@ -2,9 +2,6 @@
 
 Bienvenido a mi perfil de GitHub.
 
-<h3># Correo electrónico</h3>
-
-<p><a href="mailto:monicabautista@protonmail.com">monicabautista ARROBA protonmail PUNTO com</a></p>
 
 <h3># Licencia</h3>
 
